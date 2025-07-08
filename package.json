@@ -1,0 +1,15 @@
+{
+  "name": "sumant",
+  "version": "1.0.0",
+  "description": "Its an amezing package",
+  "main": "index.js",
+  "scripts": {
+    "start": "expressapp.js"
+  },
+  "author": "Sumant Rai",
+  "type": "commonjs",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
